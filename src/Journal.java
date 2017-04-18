@@ -1,6 +1,7 @@
 /**
  * Created by Peter on 11/21/2015.
- */
+ *//*
+
 public class Journal implements Comparable<Journal>{
     private double acceptanceRate;
     private double expectedNumOfCitations;
@@ -94,3 +95,4 @@ public class Journal implements Comparable<Journal>{
             return false;
     }
 }
+*/
